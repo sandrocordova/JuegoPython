@@ -1,3 +1,8 @@
+# Juego de números aleatorios en Python
+# Descripción: Habrán dos juadores: Jugador a y jugador b, cada jugador tiene su turno
+# cuando el jugador presione "Enter" el programa genera un número aleatorio, el jugador que
+# llegue primero a la meta gana
+# IMPORTANTE: Colocar el rango de los números aleatorios y colocar la meta
 import random
 
 def aleatorio(rangAleatorio):
